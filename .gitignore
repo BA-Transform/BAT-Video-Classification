@@ -1,0 +1,9 @@
+data
+checkpoints
+log
+.ipynb_checkpoints
+
+*.pyc
+*.ipynb
+*.DS_Store
+*.swp
