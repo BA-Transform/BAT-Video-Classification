@@ -72,7 +72,7 @@ python test_models.py \
 ```
 
 ## Other applications of BAT
-* [Image Classification]()
+* [Image Classification](https://github.com/BA-Transform/BAT-Image-Classification)
 
 ## Citation
 If you find this work or code is helpful in your research, please cite:
