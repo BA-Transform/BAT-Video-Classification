@@ -2,6 +2,8 @@
 
 This is the official code of [Non-Local Neural Networks With Grouped Bilinear Attentional Transforms](http://openaccess.thecvf.com/content_CVPR_2020/html/Chi_Non-Local_Neural_Networks_With_Grouped_Bilinear_Attentional_Transforms_CVPR_2020_paper.html) for video classification on Kinetics.
 
+![](figure1.png)
+
 ## Pretrained models
 Here we provide some of the pretrained models.
 
